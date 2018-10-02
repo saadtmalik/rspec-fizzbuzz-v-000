@@ -7,5 +7,5 @@ elseif number % 5 == 0
   end
 elseif number % 15 == 0
 "FizzBuzz"
-else
+else number % (0) == 0
 end
