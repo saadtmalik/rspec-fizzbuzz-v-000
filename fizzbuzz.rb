@@ -5,6 +5,7 @@ def fizzbuzz(number)
 elseif number % 5 == 0
     "Buzz"
   end
-else number % 15 == 0
+elseif number % 15 == 0
 "FizzBuzz"
+else
 end
